@@ -1,1 +1,1 @@
-<h1>Lovoxa Teen Dating Telegram bot made by <a href="https://www.instagram.com/h0lostyak">Holostyak</a></h1>
+<h1>Lovoxa Teen Dating Telegram bot made by <a href="https://www.instagram.com/n3zhenatyy">Nezhenatyy</a></h1>
